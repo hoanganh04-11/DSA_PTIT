@@ -1,0 +1,9 @@
+# Bỏ qua tất cả các file .exe
+*.exe
+
+# Bỏ qua tất cả các file .o (file object)
+*.o
+
+# Bỏ qua tất cả các file .out (file output)
+*.out
+
